@@ -2,6 +2,8 @@
 
 ### compiler and interpreter intermediate files
 # haskell (ghc) interfaces
+.cabal-sandbox/
+cabal.sandbox.config
 \.hi$
 \.hi-boot$
 \.o-boot$
